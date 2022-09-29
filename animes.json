@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "Dragon Ball",
+        "Genre": "Shonen",
+        "Chapters": "153",
+        "Image": "https://images.static-bluray.com/products/20/14094_2_front.jpg"
+    },
+    {
+        "Name": "Naruto",
+        "Genre": "Shonen",
+        "Chapters": "220",
+        "Image": "https://i.ebayimg.com/images/g/BvgAAOSwN5hfko2j/s-l500.jpg"
+    },
+    {
+        "Name": "Death Note",
+        "Genre": "Shonen",
+        "Chapters": "37",
+        "Image": "https://static.wikia.nocookie.net/deathnote/images/0/05/Death-note-xd.jpg/revision/latest?cb=20110803022625&path-prefix=es"
+    },
+    {
+        "Name": "Sailor Moon",
+        "Genre": "Mahou Shoujo",
+        "Chapters": "203 ",
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/0/04/SailorMoonCartel.png/revision/latest?cb=20200912223606&path-prefix=es"
+    },
+    {
+        "Name": "Spy x Family",
+        "Genre": "Shounen",
+        "Chapters": "On Air yet",
+        "Image": "https://img1.ak.crunchyroll.com/i/spire3/68719a787bc41e1e0f846272c0820a001663234878_main.jpg"
+    },
+    {
+        "Name": "Jojo's Bizarre Adventure",
+        "Genre": "Seinen",
+        "Chapters": "176",
+        "Image": "https://static.wikia.nocookie.net/manga/images/8/8a/Jojos_Bizarre_Adventure.jpg/revision/latest?cb=20190825014614&path-prefix=es"
+    },
+    {
+        "Name": "Cardcaptor Sakura",
+        "Genre": "Mahou Shoujo",
+        "Chapters": "70",
+        "Image": "https://fbi.dek-d.com/27/0709/7678/132030575"
+    },
+    {
+        "Name": "Neon Genesis Evangelion",
+        "Genre": "Mecha",
+        "Chapters": "26",
+        "Image": "https://es.web.img2.acsta.net/pictures/18/12/07/12/40/4530128.jpg"
+    },
+    {
+        "Name": "One Piece",
+        "Genre": "Shounen",
+        "Chapters": "On Air yet",
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es"
+    },
+    {
+        "Name": "My Hero Academy",
+        "Genre": "Shonen",
+        "Chapters": "On Air yet",
+        "Image": "https://m.media-amazon.com/images/M/MV5BNzBlMDU5NzgtYTBiMC00ODYwLTg2YzItNTczYjY1OTRmNGFhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+        "Name": "Hajime no Ippo",
+        "Genre": "Martial Arts",
+        "Chapters": "76",
+        "Image": "https://pics.filmaffinity.com/Hajime_no_Ippo_Rising_Serie_de_TV-676610134-mmed.jpg"
+    },
+    {
+        "Name": "Gintama",
+        "Genre": "Samurai",
+        "Chapters": "201",
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/6/64/Gintama_2006.jpg/revision/latest?cb=20201102011441&path-prefix=es"
+    },
+    {
+        "Name": "Cowboy Bebop",
+        "Genre": "Seinen",
+        "Chapters": "26",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg"
+    },
+    {
+        "Name": "Hitori Bocchi",
+        "Genre": "Slice of Life",
+        "Chapters": "12",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/1/19/Hitori_Bocchi_no_Marumaru_Seikatsu_volume_1_cover.jpg"
+    }
+  ]
