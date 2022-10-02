@@ -9,32 +9,31 @@
         "Name": "Naruto",
         "Genre": "Shonen",
         "Chapters": "220",
-        "Image": "https://i.ebayimg.com/images/g/BvgAAOSwN5hfko2j/s-l500.jpg",
+        "Image": "https://i.ebayimg.com/images/g/BvgAAOSwN5hfko2j/s-l500.jpg"
     },
     {
         "Name": "Death Note",
         "Genre": "Shonen",
         "Chapters": "37",
-        "Image": "https://static.wikia.nocookie.net/deathnote/images/0/05/Death-note-xd.jpg/revision/latest?cb=20110803022625&path-prefix=es",
+        "Image": "https://static.wikia.nocookie.net/deathnote/images/0/05/Death-note-xd.jpg/revision/latest?cb=20110803022625&path-prefix=es"
     },
     {
         "Name": "Sailor Moon",
         "Genre": "Mahou Shoujo",
         "Chapters": "203 ",
-        "Image": "https://static.wikia.nocookie.net/doblaje/images/0/04/SailorMoonCartel.png/revision/latest?cb=20200912223606&path-prefix=es",
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/0/04/SailorMoonCartel.png/revision/latest?cb=20200912223606&path-prefix=es"
     },
     {
         "Name": "Spy x Family",
         "Genre": "Shounen",
         "Chapters": "On Air yet",
-        "Image": "https://img1.ak.crunchyroll.com/i/spire3/68719a787bc41e1e0f846272c0820a001663234878_main.jpg",
-        "Description": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together. A spy on an undercover mission gets married and adopts a child as part of his cover."
+        "Image": "https://img1.ak.crunchyroll.com/i/spire3/68719a787bc41e1e0f846272c0820a001663234878_main.jpg"
     },
     {
         "Name": "Jojo's Bizarre Adventure",
         "Genre": "Seinen",
         "Chapters": "176",
-        "Image": "https://static.wikia.nocookie.net/manga/images/8/8a/Jojos_Bizarre_Adventure.jpg/revision/latest?cb=20190825014614&path-prefix=es",
+        "Image": "https://static.wikia.nocookie.net/manga/images/8/8a/Jojos_Bizarre_Adventure.jpg/revision/latest?cb=20190825014614&path-prefix=es"
     },
     {
         "Name": "Cardcaptor Sakura",
@@ -46,13 +45,13 @@
         "Name": "Neon Genesis Evangelion",
         "Genre": "Mecha",
         "Chapters": "26",
-        "Image": "https://es.web.img2.acsta.net/pictures/18/12/07/12/40/4530128.jpg",
+        "Image": "https://es.web.img2.acsta.net/pictures/18/12/07/12/40/4530128.jpg"
     },
     {
         "Name": "One Piece",
         "Genre": "Shounen",
         "Chapters": "On Air yet",
-        "Image": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es",
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es"
     },
     {
         "Name": "My Hero Academy",
@@ -64,7 +63,7 @@
         "Name": "Hajime no Ippo",
         "Genre": "Martial Arts",
         "Chapters": "76",
-        "Image": "https://static.wikia.nocookie.net/ippo/images/1/1a/Hajime_No_Ippo_-_The_Glorius_Stage.png/revision/latest?cb=20190807024546",
+        "Image": "https://static.wikia.nocookie.net/ippo/images/1/1a/Hajime_No_Ippo_-_The_Glorius_Stage.png/revision/latest?cb=20190807024546"
     },
     {
         "Name": "Gintama",
@@ -76,7 +75,7 @@
         "Name": "Cowboy Bebop",
         "Genre": "Seinen",
         "Chapters": "26",
-        "Image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg"
     },
     {
         "Name": "Hitori Bocchi",
