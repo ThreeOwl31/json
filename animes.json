@@ -3,84 +3,98 @@
         "Name": "Dragon Ball",
         "Genre": "Shonen",
         "Chapters": "153",
-        "Image": "https://images.static-bluray.com/products/20/14094_2_front.jpg"
+        "Image": "https://images.static-bluray.com/products/20/14094_2_front.jpg",
+        "Description": "Dragon Ball tells the tale of a young warrior by the name of Son Goku, a young peculiar boy with a tail who embarks on a quest to become stronger and learns of the Dragon Balls, when, once all 7 are gathered, grant any wish of choice"
     },
     {
         "Name": "Naruto",
         "Genre": "Shonen",
         "Chapters": "220",
-        "Image": "https://i.ebayimg.com/images/g/BvgAAOSwN5hfko2j/s-l500.jpg"
+        "Image": "https://i.ebayimg.com/images/g/BvgAAOSwN5hfko2j/s-l500.jpg",
+        "Description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts – the first set in Naruto's pre-teen years, and the second in his teens"
     },
     {
         "Name": "Death Note",
         "Genre": "Shonen",
         "Chapters": "37",
-        "Image": "https://static.wikia.nocookie.net/deathnote/images/0/05/Death-note-xd.jpg/revision/latest?cb=20110803022625&path-prefix=es"
+        "Image": "https://static.wikia.nocookie.net/deathnote/images/0/05/Death-note-xd.jpg/revision/latest?cb=20110803022625&path-prefix=es",
+        "Description": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die"
     },
     {
         "Name": "Sailor Moon",
         "Genre": "Mahou Shoujo",
         "Chapters": "203 ",
         "Image": "https://static.wikia.nocookie.net/doblaje/images/0/04/SailorMoonCartel.png/revision/latest?cb=20200912223606&path-prefix=es"
+        "Description": "The magical action-adventures of a teenage girl who learns of her destiny as the legendary warrior Sailor Moon and must band together with the other Sailor Scouts to defend the Earth and Galaxy. The story centers around an air-headed crybaby, named Usagi, and her friends Ami, Rei, Makato, and Minako"
     },
     {
         "Name": "Spy x Family",
         "Genre": "Shounen",
         "Chapters": "On Air yet",
-        "Image": "https://img1.ak.crunchyroll.com/i/spire3/68719a787bc41e1e0f846272c0820a001663234878_main.jpg"
+        "Image": "https://img1.ak.crunchyroll.com/i/spire3/68719a787bc41e1e0f846272c0820a001663234878_main.jpg",
+        "Description": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together. A spy on an undercover mission gets married and adopts a child as part of his cover"
     },
     {
         "Name": "Jojo's Bizarre Adventure",
         "Genre": "Seinen",
         "Chapters": "176",
-        "Image": "https://static.wikia.nocookie.net/manga/images/8/8a/Jojos_Bizarre_Adventure.jpg/revision/latest?cb=20190825014614&path-prefix=es"
+        "Image": "https://static.wikia.nocookie.net/manga/images/8/8a/Jojos_Bizarre_Adventure.jpg/revision/latest?cb=20190825014614&path-prefix=es",
+        "Description": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives. Chronicles the struggles of the cursed Joestar bloodline against the forces of evil"
     },
     {
         "Name": "Cardcaptor Sakura",
         "Genre": "Mahou Shoujo",
         "Chapters": "70",
-        "Image": "https://fbi.dek-d.com/27/0709/7678/132030575"
+        "Image": "https://fbi.dek-d.com/27/0709/7678/132030575",
+        "Description": "The story centers on Sakura Kinomoto, an elementary school student who discovers magical powers after accidentally freeing a set of magical cards into the world; she must retrieve the cards to prevent catastrophe"
     },
     {
         "Name": "Neon Genesis Evangelion",
         "Genre": "Mecha",
         "Chapters": "26",
-        "Image": "https://es.web.img2.acsta.net/pictures/18/12/07/12/40/4530128.jpg"
+        "Image": "https://es.web.img2.acsta.net/pictures/18/12/07/12/40/4530128.jpg",
+        "Description": "The series explores the experiences and emotions of Evangelion pilots and members of Nerv as they try to prevent Angels from causing more cataclysms. In the process, they are called upon to understand the ultimate causes of events and the motives for human action"
     },
     {
         "Name": "One Piece",
         "Genre": "Shounen",
         "Chapters": "On Air yet",
-        "Image": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es"
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest?cb=20190727212440&path-prefix=es",
+        "Description": "The series focuses on Monkey D. Luffy, a young man made of rubber, who, inspired by his childhood idol, the powerful pirate Red-Haired Shanks, sets off on a journey from the East Blue Sea to find the mythical treasure, the One Piece, and proclaim himself the King of the Pirates"
     },
     {
         "Name": "My Hero Academy",
         "Genre": "Shonen",
         "Chapters": "On Air yet",
-        "Image": "https://m.media-amazon.com/images/M/MV5BNzBlMDU5NzgtYTBiMC00ODYwLTg2YzItNTczYjY1OTRmNGFhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+        "Image": "https://m.media-amazon.com/images/M/MV5BNzBlMDU5NzgtYTBiMC00ODYwLTg2YzItNTczYjY1OTRmNGFhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "Description": "The series focuses on a middle school student Izuku Midoriya, who has no superpowers. Will he be able to become a hero and somehow to contribute to the peace and stability in the world, where the weak is the minority that needs to be defended"
     },
     {
         "Name": "Hajime no Ippo",
         "Genre": "Martial Arts",
         "Chapters": "76",
-        "Image": "https://static.wikia.nocookie.net/ippo/images/1/1a/Hajime_No_Ippo_-_The_Glorius_Stage.png/revision/latest?cb=20190807024546"
+        "Image": "https://static.wikia.nocookie.net/ippo/images/1/1a/Hajime_No_Ippo_-_The_Glorius_Stage.png/revision/latest?cb=20190807024546",
+        "Description": "It follows the story of high school student Makunouchi Ippo, as he begins his career in boxing and over time obtains many titles and defeats various opponents. A 76-episode anime adaptation produced by Madhouse aired on Nippon TV from October 2000 to March 2002"
     },
     {
         "Name": "Gintama",
         "Genre": "Samurai",
         "Chapters": "201",
-        "Image": "https://static.wikia.nocookie.net/doblaje/images/6/64/Gintama_2006.jpg/revision/latest?cb=20201102011441&path-prefix=es"
+        "Image": "https://static.wikia.nocookie.net/doblaje/images/6/64/Gintama_2006.jpg/revision/latest?cb=20201102011441&path-prefix=es",
+        "Gintama": "Gintama is a story of a handyman named Gintoki, a samurai with no respect for rules set by the invaders, who's ready to take any job to survive. He and his gang, however, are also among the very few who have not forgotten the morale of a swordsman. Wherever they go, all they do is to create troubles"
     },
     {
         "Name": "Cowboy Bebop",
         "Genre": "Seinen",
         "Chapters": "26",
-        "Image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg"
+        "Image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg",
+        "Description": "Set in 2071, in a post-apocalyptic world where Earth has become largely uninhabitable, the story follows a ragtag group of bounty hunters, known as cowboys, aboard the spaceship “Bebop.” As they traverse planets and moons in search of wanted fugitives, each cowboy contends with shadows from the past they can't outrun"
     },
     {
         "Name": "Hitori Bocchi",
         "Genre": "Slice of Life",
         "Chapters": "12",
-        "Image": "https://upload.wikimedia.org/wikipedia/en/1/19/Hitori_Bocchi_no_Marumaru_Seikatsu_volume_1_cover.jpg"
+        "Image": "https://upload.wikimedia.org/wikipedia/en/1/19/Hitori_Bocchi_no_Marumaru_Seikatsu_volume_1_cover.jpg",
+        "Description": "Bocchi Hitori, a girl with social anxiety who has difficult communicating with others. Before starting middle school, her friend Kai Yawara, who will be attending a different school, tells Bocchi she is breaking off their friendship until she can make friends with her entire class at her new school"
     }
   ]
